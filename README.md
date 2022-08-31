@@ -1,2 +1,2 @@
-# cats_world_map
+# catsmap
 a density map of all the cats (meow)
